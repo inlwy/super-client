@@ -14,7 +14,7 @@
 {th=year:1} - Abbreviated Year | 67
 {th=year:2} - Full year | 2567
 
-- Date (EN) -
+- Day Month Year (EN) -
 {en=date} - Date | 1st - 31st
 {en=week:1} - Abbreviated day name | Mon - Sun
 {en=week:2} - Full day name | Monday - Sunday
