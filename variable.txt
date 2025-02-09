@@ -11,8 +11,8 @@
 {th=month:1} - Numeric Month | 1 - 12
 {th=month:2} - Abbreviated Month | Jan - Dec
 {th=month:3} - Full Month | Jan - Dec
-{th=year:1} - Abbreviated Year | 67
-{th=year:2} - Full year | 2567
+{th=year:1} - Abbreviated Year | 68
+{th=year:2} - Full year | 2568
 
 - Day Month Year (EN) -
 {en=date} - Date | 1st - 31st
@@ -21,8 +21,8 @@
 {en=month:1} - Numeric month | 1 - 12
 {en=month:2} - Abbreviated month | Jan - Dec
 {en=month:3} - Full month | January - December
-{en=year:1} - Abbreviated year | 24
-{en=year:2} - Full year | 2024
+{en=year:1} - Abbreviated year | 25
+{en=year:2} - Full year | 2025
 
 - Weather - ( https://www.weatherapi.com/weather )
 {city} - City | Mae Sai
